@@ -28,4 +28,4 @@ The whole list of commands can be found [here](http://bran.readthedocs.io/en/lat
 
 ### Question 6: The .announce set join and .announce set leave commands doesn't work, but everything else is!
 -----
-**Answer:** Set the channel where the announce messages will sent by using `.announce set channel #channel`. Set a greeting message by using `.announce set join YourMessageHere` and a bye-message by using `.announce set leave YourMessageHere`. Don't forget that `.announce set join` and `.announce set leave` only apply to users joining a server, not coming online/offline.
+**Answer:** Set the channel where the announce messages will sent by using `.announce set channel #channel`. Set a greeting message by using `.announce set join YourMessageHere` and a farewell message by using `.announce set leave YourMessageHere`. Don't forget that `.announce set join` and `.announce set leave` only apply to users joining a server, not coming online/offline.
