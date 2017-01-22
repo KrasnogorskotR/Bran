@@ -5,8 +5,8 @@
 - [Fun](#fun)
 - [Games](#games)
 - [Music](#music)
-- [Guild Administrator](#guild%20administrator)
-- [Bot Administrator](#bot%20administrator)
+- [Guild Administrator](#guild-administrator)
+- [Bot Administrator](#bot-administrator)
 - [Informative](#informative)
 
 ### Miscellaneous
@@ -117,7 +117,7 @@ Command and aliases | Description | Usage
 `.prefix rm` | Remove prefixes. | `.prefix rm ;`
 
 ## Announce - `.announce` `.ann`
-Check [Announce](Frequently Asked Questions.md#question%206)
+Check [Announce](Frequently Asked Questions.md#question-6)
 
 ###### [Back to TOC](#table-of-contents)
 
