@@ -19,6 +19,6 @@ Here you can read current [Issues][Issues].
 - [Frequently Asked Questions](Frequently Asked Questions.md)
 
 [img]: https://cdn.discordapp.com/attachments/202743183774318593/210580315381563392/discord.png
-[Bran Server]: https://discord.gg/xwuvDzz
+[Bran Server]: https://discord.gg/8vXwwEQ
 [GitHub]: https://github.com/StupPlayer/Bran
 [Issues]: https://github.com/StupPlayer/Bran/issues
