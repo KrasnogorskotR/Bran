@@ -63,6 +63,7 @@ Command and aliases | Description | Usage
 ### Games
 ## Hangman - `.hangman`
 Command and aliases | Description | Usage
+----------------|--------------|-------
 `.hangman start` | Starts a HangMan Session. | `.hangman start`
 `.hangman invite` | Invites someone to Play with you! | `.hangman invite @User#0001`
 `.hangman pass` | Changes the owner of the current session. | `.hangman pass @User#0001`
@@ -72,6 +73,7 @@ Command and aliases | Description | Usage
 
 ### Music
 Command and aliases | Description | Usage
+----------------|--------------|-------
 `.music play` `.music p` | Play songs! | `.play shape of you`
 `.music nowplaying` `.music np` | Gives you information about the current song. | `.music np`
 `.music queue` `.music q` | Lists you the current queue. | `.music q`
