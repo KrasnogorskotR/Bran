@@ -23,9 +23,9 @@ The whole list of commands can be found [here](http://bran.readthedocs.io/en/lat
 
 ### Question 5: My music is very laggy?
 ----
-**Answer:** Try changing your discord [location][1]. If that doesn't works, we are aware that is too many guilds playing music now.
+**Answer:** Try changing your discord guild voice [location][1]. It's better to change the location to `US South`. If that doesn't works, we are aware that is too many guilds playing music now.
 [1]: https://support.discordapp.com/hc/en-us/articles/216661717-How-do-I-change-my-Voice-Server-Region-
 
-### Question 6: The .announce set join and .announce set leave commands doesn't work, but everything else is!
+### Question 6: The .greeting and .farewell commands doesn't work, but everything else is!
 -----
-**Answer:** Set the channel where the announce messages will sent by using `.announce set channel #channel`. Set a greeting message by using `.announce set join YourMessageHere` and a farewell message by using `.announce set leave YourMessageHere`. Don't forget that `.announce set join` and `.announce set leave` only apply to users joining a server, not coming online/offline.
+**Answer:** Set the channel where the announce messages will sent by using `.announcechannel #channel`. Set a greeting message by using `.greeting YourMessageHere` and a farewell message by using `.farewell YourMessageHere`. Don't forget that `.greeting` and `.farewell` only apply to users joining a server, not coming online/offline.
